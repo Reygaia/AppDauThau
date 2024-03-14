@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479867641786",
+    "project_id": "hlt-firebase",
+    "storage_bucket": "hlt-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479867641786:android:c7c74f320df7a81c5e0783",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-oRRROi7erqISkZ9pfYA6o88BVlgPaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
