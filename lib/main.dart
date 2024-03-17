@@ -1,4 +1,4 @@
-import 'package:appbanhang/auth_page.dart';
+import 'package:appbanhang/StartScreen/auth_page.dart';
 // import 'package:appbanhang/background.dart';
 import 'package:appbanhang/firebase_options.dart';
 import 'package:flutter/material.dart';
